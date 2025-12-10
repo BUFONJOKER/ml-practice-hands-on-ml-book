@@ -160,9 +160,3 @@ If you find this repo helpful:
 
 ---
 
-If you want, I can also:
-
-✅ auto-generate all Colab links
-✅ create folder structure for you
-✅ add badges (Python version, license, etc.)
-Just tell me!
