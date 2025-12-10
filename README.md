@@ -44,7 +44,7 @@ Each chapter includes a **Colab button** ⬇️
 ### ✅ **2. End-to-End Machine Learning Project**
 
 🏗️ *Full ML pipeline with data cleaning → training → evaluation*
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BUFONJOKER/ml-practice-hands-on-ml-book/blob/master/ch2.ipynb)
 
 ---
 
@@ -65,7 +65,7 @@ Each chapter includes a **Colab button** ⬇️
 ### 🌲 **5. Support Vector Machines**
 
 🧵 *SVC, SVR, kernels, margins*
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BUFONJOKER/ml-practice-hands-on-ml-book/blob/master/ch5_SVM.ipynb)
 
 ---
 
@@ -86,7 +86,7 @@ Each chapter includes a **Colab button** ⬇️
 ### 🤖 **8. Dimensionality Reduction**
 
 📉 *PCA, Kernel PCA, LLE*
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BUFONJOKER/ml-practice-hands-on-ml-book/blob/master/Ch8_DimensionalityReduction.ipynb)
 
 ---
 
