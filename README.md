@@ -93,7 +93,7 @@ Each chapter includes a **Colab button** ⬇️
 ### 🧠 **9. Unsupervised Learning**
 
 📦 *Clustering: K-Means, DBSCAN, Gaussian Mixtures*
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](YOUR_LINK_HERE)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/BUFONJOKER/ml-practice-hands-on-ml-book/blob/master/ch9_UnsupervisedLearningTechniques.ipynb)
 
 ---
 
